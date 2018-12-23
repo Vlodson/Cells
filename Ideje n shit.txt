@@ -1,0 +1,25 @@
+Celija:
+
+Ima neki oblik (recimo da je 2x2 u matrici)
+Hrana/Voda (racunajmo da fotosintetise)
+Razmnozava se (akko ima dovoljno hrane)
+Ima neke gene
+Pomera se (moze i ne mora)
+Privlaci ih mesto gde ima svetlosti
+
+~ ako celija radi jos nesto dodace se ovde ~
+
+
+Svet:
+
+2D tabla jer realno celije nemaju vertikalnost (boli ih kurac za gore dole)  X
+Osuncani i tamni delovi
+Mozemo dodati prepreke
+Svet je turn based znaci iteracija prolazi kroz svaku celiju i ona ce da radi nesto
+Sunce se pomera za 2 stepena svaki potez i onda dolazi mrak
+Neosvetljeno polje = 0
+Osvetljeno polje = 1
+Celija = 2
+
+
+~ opcionalno ako moze nekako da se napravi window i obojene celije i prostor that would be cool ~
